@@ -1,1 +1,1 @@
-this is file one of master
+this is file one of master constant
